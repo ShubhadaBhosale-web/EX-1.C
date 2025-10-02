@@ -1,5 +1,4 @@
 #include<stdio.h>
-/*5. WAP that swaps values of two variables using a third variable.  */
 void main()
 {
 	int  a,b,temp;
@@ -14,4 +13,5 @@ void main()
 	printf("\nAfter swapping");
 	printf("\na=%d",a);
 	printf("\nb=%d",b);
+
 }
